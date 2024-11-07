@@ -9,7 +9,7 @@
 **MSc Neuroscience: King’s College London, United Kingdom (2022-2023)**
 - *Overall Grade: 2:1 (High Merit)*
 - *Specialization: Neuroimaging Research (Distinction)*
-
+  
 **BSc Chemistry: University of Mumbai, India (2019-2022)**
 - *Grade: 8.87 CGPA*
 - *Additional Credits: Psychology, Neuroscience*
@@ -19,7 +19,7 @@
 
 ## Research Experience
 **Summer Intern (Full-Time) | Neuromatch (Computational Neuroscience) | Jul 2024 – Aug 2024** 
-- Project: Predicting Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks | Abstract | Code
+- Project: Predicting Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks
 - Key Responsibilities: Performed functional connectivity analysis to identify the brain parcels relevant for the HCP gambling task, Extracted the time series and trained a GLM, LSTM and a hybrid GLM + LSTM model to predict the gambling outcome of a holdout set based on the corresponding fMRI time series. 
 
 **Research Assistant (Part-Time) | King’s College London, United Kingdom | Sep 2023 – May 2024** 
