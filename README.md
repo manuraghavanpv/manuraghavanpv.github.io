@@ -1,10 +1,10 @@
 # Neuroscience PhD Student
 
-### About
+## About
 **I'm a first year Neuroscience PhD Student working on optimizing microstructure imaging Methods with Siemens Healthineers and the University of Trento.** 
-*Supervised by Prof. Jorge Jovicich, my research focuses on implementing Correlation Tensor Imaging (CTI) on clinical scanners, aiming to disentangle the complex sources of diffusional kurtosis in the human brain. By revealing overlooked microstructural contributions like microscopic kurtosis (μK), I'm working towards enhancing the specificity of non-Gaussian diffusion mapping for both healthy and pathological tissues. Outside of work, I love playing the violin, making YouTube videos and catching the occasional football game (occasionally purely for my sanity as a Manchester United fan).* 
+<*Supervised by Prof. Jorge Jovicich, my research focuses on implementing Correlation Tensor Imaging (CTI) on clinical scanners, aiming to disentangle the complex sources of diffusional kurtosis in the human brain. By revealing overlooked microstructural contributions like microscopic kurtosis (μK), I'm working towards enhancing the specificity of non-Gaussian diffusion mapping for both healthy and pathological tissues. Outside of work, I love playing the violin, making YouTube videos and catching the occasional football game (occasionally purely for my sanity as a Manchester United fan).*> 
 
-### Education
+## Education
 **MSc Neuroscience: King’s College London, United Kingdom (2022-2023)**
 - *Overall Grade: 2:1 (High Merit)*
 - *Specialization: Neuroimaging Research (Distinction)*
@@ -16,7 +16,7 @@
 **Higher Secondary: Bharatiya Vidya Bhavan, Kerala, India (2016-2018)**
 - *Grade: 92.8%*
 
-### Research Experience
+## Research Experience
 **Summer Intern (Full-Time) | Neuromatch (Computational Neuroscience) | Jul 2024 – Aug 2024** 
 - Project: Predicting Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks | Abstract | Code
 - Key Responsibilities: Performed functional connectivity analysis to identify the brain parcels relevant for the HCP gambling task, Extracted the time series and trained a GLM, LSTM and a hybrid GLM + LSTM model to predict the gambling outcome of a holdout set based on the corresponding fMRI time series. 
