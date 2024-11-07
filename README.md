@@ -8,9 +8,11 @@
 **MSc Neuroscience: King’s College London, United Kingdom (2022-2023)**
 - *Overall Grade: 2:1 (High Merit)*
 - *Specialization: Neuroimaging Research (Distinction)*
+
 **BSc Chemistry: University of Mumbai, India (2019-2022)**
 - *Grade: 8.87 CGPA*
 - *Additional Credits: Psychology, Neuroscience*
+
 **Higher Secondary: Bharatiya Vidya Bhavan, Kerala, India (2016-2018)**
 - *Grade: 92.8%*
 
