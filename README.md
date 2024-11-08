@@ -5,9 +5,9 @@
 
 *Supervised by Prof. Jorge Jovicich, my research focuses on implementing Correlation Tensor Imaging (CTI) on clinical scanners, aiming to disentangle the complex sources of kurtosis in the human brain. By revealing overlooked microstructural contributions like microscopic kurtosis (μK), I'm working towards enhancing the specificity of non-Gaussian diffusion mapping for both healthy and pathological tissues. Outside of work, I love playing the violin, making YouTube videos and catching the occasional football game!* 
 
-## Education
-- **MSc Neuroscience | King’s College London, United Kingdom (*2022-2023*)**
-- **BSc Chemistry | University of Mumbai, India (*2019-2022*)**  
+## Education						       		
+- MSc., Neuroscience	| King’s College London, United Kingdom (*2022-2023*)			        		
+- BSc., Chemistry | University of Mumbai, India (*2019-2022*) 
 
 ## Research Experience
 **Summer Intern (Full-Time) | Neuromatch (Computational Neuroscience) | Jul 2024 – Aug 2024** 
