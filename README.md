@@ -1,7 +1,7 @@
 # Neuroscience PhD Student
 
 ## About
-**I'm a first year Neuroscience PhD Student working on optimizing microstructure imaging methods with Siemens Healthineers and the Università di Trento.** 
+**I'm a first year Neuroscience PhD Student working on optimizing microstructure imaging methods with Siemens Healthineers and Università di Trento.** 
 
 *Supervised by Prof. Jorge Jovicich, my research focuses on implementing Correlation Tensor Imaging (CTI) on clinical scanners, aiming to disentangle the complex sources of kurtosis in the human brain. By revealing overlooked microstructural contributions like microscopic kurtosis (μK), I'm working towards enhancing the specificity of non-Gaussian diffusion mapping for both healthy and pathological tissues. Outside of work, I love playing the violin, making YouTube videos and catching the occasional football game!* 
 
