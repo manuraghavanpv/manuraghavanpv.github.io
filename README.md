@@ -1,6 +1,6 @@
-# Website Backend
+# Backend
 
-Hola! I'm Manu, a neuroscience PhD student working translating advanced diffusion MRI methods into clinical 3T scanners. 
+Hola! I'm Manu, a neuroscience PhD student working on the translation of advanced diffusion MRI methods into clinical 3T scanners. 
 
 ❄️ Website: https://manuraghavanpv.github.io/
 
