@@ -16,7 +16,7 @@ timezone:
 
 title: Manu Raghavan # the main title
 
-tagline: PhD Fellow with Siemens Healthineers & University-of-Trento # it will display as the subtitle
+tagline: Neuroscience PhD @Siemens & Center for Mind/Brain Sciences (CIMeC) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Neuroscience, Diffusion MRI, Denoising, Academia, Research, PhD
@@ -41,9 +41,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://x.com/manuraghavanpv # change to your Twitter homepage
     - https://github.com/manuraghavanpv # change to your GitHub homepage
+    - https://www.linkedin.com/in/manu-raghavan-pv
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/manu-raghavan-pv/
+    
 
 # Site Verification Settings
 webmaster_verifications:
