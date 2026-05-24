@@ -19,7 +19,7 @@ order: 4
 * Additional Credits: Psychology, Neuroscience
 
 ## Work Experience
-**Visiting Researcher | IBEB, University of Lisbon | Mar 2026 – Jul 2026**
+**Visiting Researcher | Instituto de Biofísica e Engenharia Biomédica, University of Lisbon | Mar 2026 – Jul 2026**
 * Project: Numerical Simulations for Accelerating the DDE Gradient Scheme to a < 10 min Protocol
 * Publication: (coming soon :) )
 
@@ -28,12 +28,12 @@ order: 4
 * Key Responsibilities: Performed functional connectivity analysis to identify the brain parcels relevant for the HCP gambling task, Extracted the time series and trained a GLM, LSTM and a hybrid GLM + LSTM model to predict the gambling outcome of a holdout set based on the corresponding fMRI time series. 
 
 **Research Assistant | King’s College London, United Kingdom | Sep 2023 – May 2024**
-* Project 1: Investigating the Role of OFC-Accumbens White Matter Pathways in Psychopathology 
-* Project 2: Comparative Methodological Research on Deep Learning vs Manual Approaches to Tractography
+* Project 1: Investigating the Role of OFC-Accumbens White Matter Pathways in Depression 
+* Project 2: Methodological Research on Deep Learning vs Manual Approaches to Tractography
 
 **Graduate Researcher | King’s College London, United Kingdom | Mar 2023 – Sep 2023**
 * Project Title: Mapping the Subcortical Dopaminergic Connectivity in Young Adults using Diffusion Tractography
-* Key Responsibilities: MRI Preprocessing, Virtual Dissections, Data Analysis, Dissemination
+* Key Responsibilities: DTI Tractography, Virtual Dissections, Data Analysis, Dissemination
 
 ## Awards & Grants
 * **ISMRM 2026 Educational Stipend**
@@ -46,5 +46,5 @@ order: 4
 
 * **Piano Nazionale di Ripresa e Resilienza Doctoral Fellowship**
   * Issued by: Italian Ministry of Research (MUR)
-  * The PNRR fellowship funded my 4 year PhD project at the Center for Mind/Brain Sciences, University of Trento in collaboration with Siemens Healthineers s.r.l, Milan.
+  * Recipient of the 2024 PNRR fellowship that funded my 4 year PhD project at the Center for Mind/Brain Sciences (University of Trento) in collaboration with Siemens Healthineers s.r.l, Milan.
 
