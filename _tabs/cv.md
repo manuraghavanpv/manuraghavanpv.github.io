@@ -24,7 +24,7 @@ order: 4
 * _Publication: coming soon!_
 
 **Summer Intern | Neuromatch (Computational Neuroscience) | Jul 2024 – Aug 2024**
-* _Project: Predicting Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks [Abstract](https://zenodo.org/records/15126279)_
+* _Project: Predicting Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks ([Abstract](https://zenodo.org/records/15126279))_
 * _Key Responsibilities: Performed functional connectivity analysis to identify the brain parcels relevant for the HCP gambling task, Extracted the time series and trained a GLM, LSTM and a hybrid GLM + LSTM model to predict the gambling outcome of a holdout set based on the corresponding fMRI time series._
 
 **Research Assistant | King’s College London, United Kingdom | Sep 2023 – May 2024**
