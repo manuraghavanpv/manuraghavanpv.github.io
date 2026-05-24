@@ -7,7 +7,7 @@ order: 4
 
 ## Education
 **PhD Neuroscience | Università di Trento, Italy (2024-Present)**
-* _~ ongoing ~_
+* _~ongoing_
 * _Supervised by: Prof. Jorge Jovicich_
 
 **MSc Neuroscience | King’s College London, United Kingdom (2022-2023)**
