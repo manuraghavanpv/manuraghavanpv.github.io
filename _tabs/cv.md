@@ -5,7 +5,7 @@ icon: fas fa-file-alt
 order: 4
 ---
 
-## Education
+# Education
 **PhD Neuroscience | Università di Trento, Italy (2024-Present)**
 * _~ongoing_
 * _Supervised by: Prof. Jorge Jovicich_
@@ -18,7 +18,7 @@ order: 4
 * _Grade: 8.87 C.G.P.A_
 * _Additional Credits: Psychology, Neuroscience_
 
-## Work Experience
+# Work Experience
 **Visiting Researcher | Instituto de Biofísica e Engenharia Biomédica, University of Lisbon | Mar 2026 – Jul 2026**
 * _Project: Simulations for Accelerating the CTI Gradient Scheme to a < 10 min Protocol in Collaboration with Dr. Rafael Henriques_
 * _Publication: coming soon!_
@@ -35,7 +35,7 @@ order: 4
 * _Project Title: Mapping the Subcortical Dopaminergic Connectivity in Young Adults using Diffusion Tractography_
 * _Key Responsibilities: DTI Tractography, Virtual Dissections, Data Analysis, Dissemination_
 
-## Awards & Grants
+# Awards & Grants
 * **ISMRM 2026 Educational Stipend**
   * _Issued by: International Society for Magnetic Resonance in Medicine (ISMRM)_
   * _Recieved €200 stipend and fully waivered registration for ISMRM 2026 at Cape Town_    
