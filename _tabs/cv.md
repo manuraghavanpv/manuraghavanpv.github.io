@@ -5,9 +5,7 @@ icon: fas fa-file-alt
 order: 4
 ---
 
-## CV
-
-### Education
+## Education
 **PhD Neuroscience | Università di Trento, Italy (2024-Present)**
 * ~ ongoing ~
 * Supervised by: Prof. Jorge Jovicich 
