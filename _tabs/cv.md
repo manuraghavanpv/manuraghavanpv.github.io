@@ -11,9 +11,11 @@ order: 4
 **PhD Neuroscience | Università di Trento, Italy (2024-Present)**
 * ~ ongoing ~
 * Supervised by: Prof. Jorge Jovicich 
+
 **MSc Neuroscience | King’s College London, United Kingdom (2022-2023)**
 * Grade: 2:1 (High Merit) 
 * Supervised by: Dr. Flavio Dell'Acqua
+
 **BSc Chemistry | University of Mumbai, India (2019-2022)**
 * Grade: 8.87 C.G.P.A
 * Additional Credits: Psychology, Neuroscience
