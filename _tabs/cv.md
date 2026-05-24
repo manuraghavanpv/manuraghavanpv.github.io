@@ -20,8 +20,8 @@ order: 4
 
 ## Work Experience
 **Visiting Researcher | Instituto de Biofísica e Engenharia Biomédica, University of Lisbon | Mar 2026 – Jul 2026**
-* Project: Numerical Simulations for Accelerating the DDE Gradient Scheme to a < 10 min Protocol
-* Publication: (coming soon :) )
+* Project: Numerical Simulations for Accelerating the Double Diffusion Encoding Gradient Scheme to a < 10 min Protocol in Collaboration with Dr. Rafael Henriques
+* Publication: coming soon!
 
 **Summer Intern | Neuromatch (Computational Neuroscience) | Jul 2024 – Aug 2024**
 * Project: Predicting Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks | [Abstract](https://zenodo.org/records/15126279)
