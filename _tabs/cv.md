@@ -30,13 +30,15 @@ order: 4
 * _Mapping the Subcortical Dopaminergic Connectivity in Young Adults using Diffusion Tractography_
 
 # Awards & Grants
-* **ISMRM 2026 Educational Stipend**
+**ISMRM 2026 Educational Stipend**
   * _Issued by: International Society for Magnetic Resonance in Medicine (ISMRM)_
   * _Recieved €200 stipend and fully waivered registration for ISMRM 2026 at Cape Town_    
-* **FENS-IBRO-PERC Fellowship**
+
+**FENS-IBRO-PERC Fellowship**
   * _Issued by: Federation of European Neuroscience Societies (FENS)_
   * _Recipient of the 2025 FENS-IBRO-PERC grant of €4000 which funds the exchange of early career between European labs. This helped fund my five month exchange with Dr. Rafael Henriques at IBEB, Lisbon._   
-* **Piano Nazionale di Ripresa e Resilienza Doctoral Fellowship**
+
+**Piano Nazionale di Ripresa e Resilienza Doctoral Fellowship**
   * _Issued by: Italian Ministry of Research (MUR)_
   * _Recipient of the 2024 PNRR fellowship that funded my 4 year PhD project at the Center for Mind/Brain Sciences (University of Trento) in collaboration with Siemens Healthineers s.r.l, Milan._
 
