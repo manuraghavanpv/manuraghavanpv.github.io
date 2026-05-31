@@ -1,0 +1,16 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Keep sidebar name on one line */
+#sidebar .site-title,
+#sidebar .site-title a {
+  white-space: nowrap;
+  font-size: 1.2rem;
+}
