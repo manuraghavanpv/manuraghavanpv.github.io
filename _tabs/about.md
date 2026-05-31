@@ -11,4 +11,4 @@ Supervised by [Prof. Jorge Jovicich](https://scholar.google.com/citations?user=l
 
 Want to know more about denoising, double diffusion encoding or clinical applications of CTI? Please feel free to reach out to me at: mr.pullur@unitn.it
 
-![](https://github.com/manuraghavanpv/manuraghavanpv.github.io/blob/750cef45f9e45459fb6f0151897b8f60e441a664/assets/about-image.jpeg) 
+![about-img](https://github.com/manuraghavanpv/manuraghavanpv.github.io/blob/750cef45f9e45459fb6f0151897b8f60e441a664/assets/about-image.jpeg) 
