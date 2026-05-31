@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "PUBLICATIONS"
+description: Publications
 icon: fas fa-microscope
 order: 2
 ---
