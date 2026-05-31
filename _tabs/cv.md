@@ -15,6 +15,7 @@ order: 4
 * _Supervised by: Dr. [Flavio Dell'Acqua](https://scholar.google.com/citations?user=kOpyRqgAAAAJ&hl=en)_
 
 **BSc Chemistry | University of Mumbai, India (2019-2022)**
+* _First Class Hons._
 
 # Work Experience
 **Visiting Researcher | Instituto de Biofísica e Engenharia Biomédica, University of Lisbon | Mar 2026 – Jul 2026**
