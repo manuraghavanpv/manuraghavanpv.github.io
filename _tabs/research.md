@@ -5,7 +5,7 @@ icon: fas fa-microscope
 order: 2
 ---
 # **Papers**
-* White Matter Alterations in the Oribitofrontal-Accumbens Pathway of Individuals with Depressive Traits (_Under Review_)
+* White Matter Alterations in the Oribitofrontal-Accumbens Pathway of Individuals with Depressive Traits (Under Review)
   
 # **Abstracts**
 * Raghavan M, Novello L, Henriques RN, Shemesh N, Ianuş A, Feiweier T, Zacà D, Jovicich J. 'Accelerated Correlation Tensor Imaging of Human Brain Microstructure at 3T'. ISMRM 2026, Cape Town (ZA) ([MRM](https://www.researchgate.net/publication/405275081_Accelerated_Correlation_Tensor_Imaging_of_Human_Brain_Microstructure_at_3T_for_Clinical_Translation))
