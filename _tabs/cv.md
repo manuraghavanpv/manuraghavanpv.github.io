@@ -5,7 +5,7 @@ icon: fas fa-file-alt
 order: 4
 ---
 
-# Education
+# **Education**
 **PhD Neuroscience | Università di Trento, Italy (2024-Present)**
 * _BrainMag Group, Center for Mind/Brain Sciences (CIMeC)_
 * _Supervised by: [Prof. Jorge Jovicich](https://scholar.google.com/citations?user=lWg8Z2oAAAAJ&hl=en)_
@@ -17,7 +17,7 @@ order: 4
 **BSc Chemistry | University of Mumbai, India (2019-2022)**
 * _First Class Hons. (8.87 G.P.A)_
 
-# Work Experience
+# **Work Experience**
 **Visiting Researcher | Instituto de Biofísica e Engenharia Biomédica, University of Lisbon | Mar 2026 – Jul 2026**
 * _Simulations for Accelerating the CTI Gradient Scheme to a < 10 min Protocol in Collaboration with Dr. Rafael Henriques_
 
@@ -30,7 +30,7 @@ order: 4
 **Graduate Researcher | King’s College London, United Kingdom | Mar 2023 – Sep 2023**
 * _Mapping the Subcortical Dopaminergic Connectivity in Young Adults using Diffusion Tractography_
 
-# Awards & Grants
+# **Awards & Grants**
 **ISMRM 2026 Educational Stipend**
   * _Issued by: International Society for Magnetic Resonance in Medicine (ISMRM)_
   * _Recieved €200 stipend and fully waivered registration for ISMRM 2026 at Cape Town_    
@@ -43,7 +43,7 @@ order: 4
   * _Issued by: Italian Ministry of Research (MUR)_
   * _Recipient of the 2024 PNRR fellowship that funded my 4 year PhD project at the Center for Mind/Brain Sciences (University of Trento) in collaboration with Siemens Healthineers s.r.l, Milan._
 
-# Teaching Experience
+# **Teaching Experience**
 **Teaching Assistant | King's College London | Feb 2024 - June 2024**
 * _Neuroimaging Methods, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_  
 * _Supervised by: Dr. Owen O'Daly & Dr. Fernando Zelaya_
