@@ -7,11 +7,11 @@ order: 4
 
 # Education
 **PhD Neuroscience | Università di Trento, Italy (2024-Present)**
-* _Center for Mind/Brain Sciences (CIMeC)_
+* _BrainMag Group, Center for Mind/Brain Sciences (CIMeC)_
 * _Supervised by: [Prof. Jorge Jovicich](https://scholar.google.com/citations?user=lWg8Z2oAAAAJ&hl=en)_
 
 **MSc Neuroscience | King’s College London, United Kingdom (2022-2023)**
-* _Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
+* _NatBrainLab, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
 * _Supervised by: Dr. [Flavio Dell'Acqua](https://scholar.google.com/citations?user=kOpyRqgAAAAJ&hl=en)_
 
 **BSc Chemistry | University of Mumbai, India (2019-2022)**
