@@ -12,7 +12,7 @@ order: 4
 
 **MSc Neuroscience | King’s College London, United Kingdom (2022-2023)**
 * _NatBrainLab, Institute of Psychology, Psychiatry and Neuroscience (IoPPN)_
-* _Supervised by: Dr. [Flavio Dell'Acqua](https://scholar.google.com/citations?user=kOpyRqgAAAAJ&hl=en)_
+* _Supervised by: [Dr. Flavio Dell'Acqua](https://scholar.google.com/citations?user=kOpyRqgAAAAJ&hl=en)_
 
 **BSc Chemistry | University of Mumbai, India (2019-2022)**
 * _First Class Hons. (8.87 G.P.A)_
