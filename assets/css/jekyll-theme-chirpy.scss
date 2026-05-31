@@ -9,8 +9,15 @@
 ';
 
 /* Keep sidebar name on one line */
+
 #sidebar .site-title,
 #sidebar .site-title a {
   white-space: nowrap;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  letter-spacing: -0.02em;
+}
+
+#sidebar .site-subtitle {
+  font-size: 0.7rem;
+  line-height: 1.2;
 }
