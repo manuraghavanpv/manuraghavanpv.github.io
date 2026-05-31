@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: ""
 icon: fas fa-microscope
 order: 2
 ---
