@@ -20,16 +20,17 @@ order: 4
 
 # **Work Experience**
 **Visiting Researcher | Instituto de Biofísica e Engenharia Biomédica, University of Lisbon | Mar 2026 – Jul 2026**
-* _Simulations for Accelerating the CTI Gradient Scheme to a < 10 min Protocol in Collaboration with Dr. Rafael Henriques_
+* _Simulations for accelerating the CTI gradient scheme to a < 10 min protocol in collaboration with Dr. Rafael Henriques_
+* _Ex-vivo validation of the accelerated protocol under the supervision of Prof. Noam Shemesh at the Champalimaud Foundation_
 
 **Summer Intern | Neuromatch (Computational Neuroscience) | Jul 2024 – Aug 2024**
-* _Investigating Risky Decision-Making in Healthy Adults using fMRI and Recurrent Neural Networks ([Abstract](https://zenodo.org/records/15126279))_
+* _Investigating the computational role of DMN in human decision-Making using fMRI and recurrent neural networks ([Abstract](https://zenodo.org/records/15126279))_
 
 **Research Assistant | King’s College London, United Kingdom | Sep 2023 – May 2024**
-* _Investigating the Role of OFC-Accumbens White Matter Pathways in Depression_
+* _Investigating the role of OFC-Accumbens white matter pathways in depression_
 
 **Graduate Researcher | King’s College London, United Kingdom | Mar 2023 – Sep 2023**
-* _Mapping the Subcortical Dopaminergic Connectivity in Young Adults using Diffusion Tractography_
+* _Mapping the subcortical dopaminergic white matter connectivity in young adults using DTI tractography_
 
 # **Awards & Grants**
 **ISMRM 2026 Educational Stipend**
