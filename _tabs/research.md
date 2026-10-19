@@ -6,7 +6,7 @@ icon: fas fa-microscope
 order: 2
 ---
 # **Papers**
-* Mapping reward processing circuits: the orbitofrontal-nucleus accumbens white matter pathways and their associations to psychopathological traits | ([Preprint](https://doi.org/10.64898/2026.10.05.756857))
+* Mapping reward processing circuits: the orbitofrontal-nucleus accumbens white matter pathways and their associations to psychopathological traits | [Preprint](https://doi.org/10.64898/2026.10.05.756857)
   
 # **Abstracts**
 * Raghavan M, Novello L, Henriques RN, Shemesh N, Ianuş A, Feiweier T, Zacà D, Jovicich J. 'Accelerated Correlation Tensor Imaging of Human Brain Microstructure at 3T'. ISMRM 2026, Cape Town (ZA) ([MRM](https://www.researchgate.net/publication/405275081_Accelerated_Correlation_Tensor_Imaging_of_Human_Brain_Microstructure_at_3T_for_Clinical_Translation))
